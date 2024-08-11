@@ -1,0 +1,140 @@
+body{
+    background-color: rgb(168, 158, 158);
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar{
+    display: flex;
+    background-color: white;
+    height: 80px;
+}
+#aa{
+    margin: 20px;
+
+}
+.box,input{
+    width: 500px;
+    height: 30px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    font-family:  'FontAwesome';
+    margin-top: 18px;
+}
+.box{
+    margin-right: 50px;
+    margin-left: 50px;
+
+}
+.icon{
+    margin: 25px;
+    display: flex;
+}
+#ii{
+    margin-left: 50px;
+    font-size: x-large;
+}
+#ia{
+
+    font-size: x-large;
+}
+#pa{
+    margin-top: 0px;
+    font-size: 20px;
+}
+.navbar2{
+    height: 150px;
+    margin-top: 10px;
+    background-color: white;
+}
+
+.box2{
+    margin-left: 40px;
+    display: inline-block;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 15px;
+}
+.content1{
+    height: 450px;
+    background-color: white;
+
+}
+.cont{
+    padding-top: 10px;
+    height: 350px;
+    width: 200px;
+    border: 1px solid rgb(190, 186, 186);
+    margin-left: 40px;
+    display: inline-block;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.content2{
+    margin-top: 10px;
+    background-color: white;
+    height: 280px;
+
+}
+#a3{
+    padding-top: 20px;
+    margin: 3px;
+    width: 435px;
+}
+.cont3{
+    padding-top: 10px;
+    height: 350px;
+    width: 300px;
+    border: 1px solid rgb(190, 186, 186);
+    display: inline-block;
+    margin: 10px;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.content3{
+    height: 470px;
+    background-color: white;
+
+}
+.content4{
+    margin-top: 10px;
+    background-color: white;
+    height: 350px;
+
+}
+.footer{
+    height: 450px;
+    background-color: black;
+    
+
+}
+.foot{
+    display: inline-block;
+    vertical-align: text-top;
+    margin: 5px;
+}
+#pa{
+    color: grey;
+}
+#pr{
+    color: white;
+}
+
+.icon2{
+    color: white;
+    font-size: 20px;
+    
+}
+.solid{
+    height: 1px;
+    width: 100%;
+    background-color: black;
+}
+.prefoot{
+    display: flex;
+    margin: 10px;
+
+}
